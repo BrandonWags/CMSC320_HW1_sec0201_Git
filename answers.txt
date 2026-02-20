@@ -1,1 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
 
+Answer: It could be applied to almost any feild.  Some popular ones are sports and finance.  Roles like quants utlize a lot of the data science tool kit to try and identify patterns and predict stock movements.  In sports analytics is everything so data science goes toether with it well.  One great movie highlighting this is Moneyball.  
