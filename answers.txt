@@ -9,3 +9,7 @@ Answer: It could be applied to almost any feild.  Some popular ones are sports a
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: There are a few differences but one key differences is in how they perserve history.  Merging perserves the full non-linear history while rebasing makes a clean linear history.  Merging is considered safer.  
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning some cool things and graduating!
