@@ -5,3 +5,7 @@ Answer: Because it allows for more functionality such as multiple people working
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to almost any feild.  Some popular ones are sports and finance.  Roles like quants utlize a lot of the data science tool kit to try and identify patterns and predict stock movements.  In sports analytics is everything so data science goes toether with it well.  One great movie highlighting this is Moneyball.  
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: There are a few differences but one key differences is in how they perserve history.  Merging perserves the full non-linear history while rebasing makes a clean linear history.  Merging is considered safer.  
